@@ -11,7 +11,7 @@ import SwiftUI
 struct EffectiveMobileTTApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MenuScreenView()
         }
     }
 }
